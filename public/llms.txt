@@ -1,0 +1,45 @@
+# שלומקא — Generative Engine Optimization Map
+
+> A mystical and spiritual Kundalini Activation workshop led by Shlomit Simchi, focused on inner liberation and freedom. The experience combines energy work, gentle touch, sound frequencies, and conscious relaxation to activate dormant life force energy. The event creates a sacred space for participants to release emotional burdens, reconnect with their inner vitality, and experience natural healing through a journey of cleansing, activation, expansion, and integration.
+
+---
+
+## Pages
+
+### בית
+https://-18ccdbd9.zappy5.app
+סדנת קונדליני מיסטית בהנחיית שלומית סימצ&#39;י. שחררי נטלים רגשיים, התחברי לחיוניות הפנימית שלך וחוויי ריפוי טבעי דרך עבודת אנרגיה, מגע עדין ותדרי קול. מסע של טיהור והתרחבות מחכה לך.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-18ccdbd9.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-18ccdbd9.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-18ccdbd9.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About שלומקא
+A mystical and spiritual Kundalini Activation workshop led by Shlomit Simchi, focused on inner liberation and freedom. The experience combines energy work, gentle touch, sound frequencies, and conscious relaxation to activate dormant life force energy. The event creates a sacred space for participants to release emotional burdens, reconnect with their inner vitality, and experience natural healing through a journey of cleansing, activation, expansion, and integration.
+
+## Target Audience
+people seeking spiritual growth and inner freedom
+
+## Industry
+wellness and spirituality
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-18ccdbd9.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-18ccdbd9.zappy5.app/robots.txt
